@@ -1,22 +1,5 @@
-## Last Week's Accomplishments
+What I did: Installed Unity, familiarized myself with the engine
 
-> In this section, you can write about what you accomplished in the previous week.
+What I'm going to do: Start working on basic engine design, try and get some sprites to do anything
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
-
-## This Week's Plan
-
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
-
-## Anything Blocking?
-
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+Blockers: We switched from Unreal to Unity, I have to learn a whole new engine again.
