@@ -1,3 +1,11 @@
-What I did: I worked on the presentation mostly this week
+##What I did
 
-Blockers: I couldn't really work on the code this week because I was working on the presentation
+All of my group was really busy this week (6 homeworks and 4 interviews), we did nothing
+
+##Next Week's Plan
+
+
+
+##Blockers
+
+Homework, duh
