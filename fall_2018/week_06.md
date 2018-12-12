@@ -1,6 +1,6 @@
 ##What I did
 
-
+Researched game AI
 
 ##Next Week's Plan
 
